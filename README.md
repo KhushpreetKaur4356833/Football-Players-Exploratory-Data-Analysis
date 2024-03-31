@@ -10,3 +10,18 @@ Distribution Analysis: The notebook presents a statistical distribution of playe
 Top Performers Identification: A segment is dedicated to identifying the top players based on their overall ratings, showcasing attributes such as name, age, nationality, wage, value, and position.
 
 This structured approach not only reveals the dataset's underlying patterns and player rankings but also demonstrates the application of data visualization techniques to enhance understanding and presentation of football analytics.
+
+
+## Datasets
+Data set contains information about football player, data set is collected from various kaggle public posts and is combined together.
+
+
+## Exploratory Data Analysis
+Exploratory Data Analysis on this data set provides us great insight about the football players which can help in creating a great team for match.
+
+## Technical Information
+
+The data is first cleaned and processed for easier processing.
+Once the data is processed we use different techniques to bring the data into Normal distribution, this helps in better decision making.
+
+We are the visualizing the data for different parameters to obtaint the relationship among them.
